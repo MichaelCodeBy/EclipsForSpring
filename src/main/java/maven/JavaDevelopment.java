@@ -13,7 +13,8 @@ public class HiringDepartment{
 	private JavaDevelopment javaDevelopment;
 	
 	public HiringDepartment(JavaDevelopment javaDevelopment) {
-		this.javaDevelopment=javaDevelopment;
+		this.javaDevelopment=javaDevelopment;// пабачыт ли гит этот коммент
 	}
 	
 }
+//проба гита
